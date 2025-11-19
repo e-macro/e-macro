@@ -1,4 +1,4 @@
-# Hi there, I'm Volodymyr! 👋
+<h1 align="center">Hi there, I'm Volodymyr! 👋</h1>
 
 I am a **Junior Fullstack Developer** passionate about building web applications. I have experience working with both the client-side (Frontend) and server-side (Backend) logic. I enjoy working in a team environment and constantly learning new development approaches.
 
