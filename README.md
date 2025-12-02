@@ -53,7 +53,7 @@ Here are some of the projects I've worked on:
 
 * 🎓 **NoteHub**
     <br> _Application for managing notes: creating, deleting and also with ability to authentication and edit your profile._
-    <br> **Stack:** MERN Stack
+    <br> **Stack:** TypeScript, React.js, Next.js
     <br> 🔗 [View Code](https://github.com/e-macro/09-auth)
 
 ---
